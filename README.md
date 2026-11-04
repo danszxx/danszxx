@@ -2,17 +2,22 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um profissional apaixonado por resolução de problemas e tecnologia, atualmente em transição para a área de Cibersegurança com foco em Blue Team e operações de SOC. 
+Estou em transição de carreira para a área de **Cibersegurança**, com foco em **Blue Team e operações de SOC (Security Operations Center)**.
 
-Minha experiência anterior como gerente me ensinou a atuar com eficiência sob pressão, gerenciar prioridades e manter a resiliência em ambientes dinâmicos. Movido pelo aprendizado contínuo, venho desenvolvendo habilidades práticas na triagem de incidentes, análise de redes e ferramentas de segurança defensiva. 
+Atualmente, venho desenvolvendo meus conhecimentos por meio de cursos e laboratórios práticos na **TryHackMe e Coursera**, estudando análise de logs, redes, identificação de ameaças e fundamentos de segurança defensiva.
 
-Meu objetivo é ajudar as organizações a garantir a integridade dos seus ambientes, unindo visão operacional, ética e rigor analítico para mitigar riscos de forma ágil.
+Minha experiência anterior como gerente me proporcionou habilidades importantes, como resolução de problemas, organização, tomada de decisões sob pressão e trabalho em equipe. Quero levar essa experiência para a área de segurança da informação, aliando os conhecimentos que estou adquirindo à minha vivência profissional.
+
+Meu objetivo é conquistar uma oportunidade como **Analista de SOC Nível 1 ou Analista de Segurança Júnior**, onde possa aplicar o que venho aprendendo e continuar evoluindo na área.
 
 ---
-### 🛠️ Foco Atual
-- **Área:** Blue Team / SOC Nível 1
-- **Interesses:** Investigação de ameaças, Monitoramento Proativo, Infraestrutura.
 
+## 🛡️ Foco Atual
+
+- **Objetivo profissional:** Analista de SOC N1 / Blue Team
+- **Estudos:** Análise de logs, redes, investigação de ameaças e segurança defensiva
+- **Plataformas de aprendizado:** TryHackMe e Coursera
+- **Prática:** Laboratórios de cibersegurança documentados no GitHub
 
 ---
 
