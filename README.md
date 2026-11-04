@@ -32,3 +32,9 @@ Documentação de laboratórios de cibersegurança, organizada por área, com fo
 
 **[Ver certificados](https://github.com/danszxx/Certificacoes)**  
 Certificados de cursos e trilhas concluídas na TryHackMe e Coursera.
+
+---
+
+### 📫 Contato e Redes
+
+🔗 [LinkedIn](https://www.linkedin.com/in/danszx) · 📷 [Instagram](https://www.instagram.com/dan_sz/)
