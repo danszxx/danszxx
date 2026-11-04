@@ -12,3 +12,11 @@ Meu objetivo é ajudar as organizações a garantir a integridade dos seus ambie
 ### 🛠️ Foco Atual
 - **Área:** Blue Team / SOC Nível 1
 - **Interesses:** Investigação de ameaças, Monitoramento Proativo, Infraestrutura.
+
+
+---
+
+### 📂 Projetos e Laboratórios
+
+**[TryHackMe — Write-ups](https://github.com/danszxx/TryHackMe-Writeups)**  
+Documentação de laboratórios de cibersegurança, organizada por área, com foco principal em Security Analyst / SOC / Blue Team.
