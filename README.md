@@ -20,3 +20,10 @@ Meu objetivo é ajudar as organizações a garantir a integridade dos seus ambie
 
 **[TryHackMe — Write-ups](https://github.com/danszxx/TryHackMe-Writeups)**  
 Documentação de laboratórios de cibersegurança, organizada por área, com foco principal em Security Analyst / SOC / Blue Team.
+
+---
+
+### 📜 Certificações e Cursos
+
+**[Ver certificados](https://github.com/danszxx/Certificacoes)**  
+Certificados de cursos e trilhas concluídas na TryHackMe e Coursera.
