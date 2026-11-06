@@ -15,24 +15,28 @@ Credenciais obtidas por **exame**, com links para verificação oficial.
 | **[TryHackMe — Cyber Security 101 (SEC1)](https://github.com/danszxx/Certificacoes/blob/main/01-Certificacoes-Profissionais/SEC1.md)** | 06/11/2026 | [Certificado oficial](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf) · **660/700 (94,3%)** |
 | **TryHackMe — Pre Security (SEC0)** | 24/09/2026 | [Certificado oficial](https://assets.tryhackme.com/certification-certificate/6ab564d7d7f23c8e3e7f0378.pdf) |
 
-[📁 Ver todas as certificações e formações](https://github.com/danszxx/Certificacoes)
+## 📚 Trilhas concluídas e cursos de cibersegurança
 
-## 🔎 Projetos e laboratórios
-
-| Projeto | Área | O que documenta |
+| Plataforma | Formação | Situação |
 |---|---|---|
-| **[Data Poisoning in RAG Systems](https://github.com/danszxx/TryHackMe-Writeups/tree/main/02-AI-Security/Data-Poisoning-in-RAG-Systems)** | AI Security | Manipulação de material de referência, observação de resultados e mitigação |
-| **[TryHackMe — Write-ups](https://github.com/danszxx/TryHackMe-Writeups)** | Laboratórios de segurança | Repositório de estudos práticos e documentação técnica |
+| **TryHackMe** | [Pre Security](https://github.com/danszxx/Certificacoes/blob/main/02-Trilhas-de-Aprendizado/TryHackMe/Pre-Security.pdf) · [Cyber Security 101](https://github.com/danszxx/Certificacoes/blob/main/02-Trilhas-de-Aprendizado/TryHackMe/Cyber-Security-101.pdf) | ✅ **2 trilhas concluídas** |
+| **Google · Coursera** | [Certificado Profissional de Segurança Cibernética do Google](https://github.com/danszxx/Certificacoes/tree/main/03-Cursos-e-Formacoes/Google) | 📚 **3 cursos concluídos** · formação em andamento |
 
-**Foco de desenvolvimento:** construir e publicar estudos de caso de SOC, incluindo triagem de alertas, análise de logs e investigação de incidentes. Esses estudos serão adicionados conforme forem realizados e documentados.
+**Cursos do Google concluídos:** Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks and Network Security.
+
+📁 **[Ver todos os certificados e comprovantes de formação](https://github.com/danszxx/Certificacoes)**
+
+## 🔎 Laboratórios e write-ups
+
+📂 **[Acessar laboratórios organizados por área](https://github.com/danszxx/TryHackMe-Writeups)**
+
+Estudos práticos e documentação técnica separados por especialidade, incluindo **SOC / Blue Team** e **AI Security**. Novos laboratórios são adicionados às respectivas pastas, sem ampliar a lista deste perfil.
 
 ## 🛡️ Conhecimentos em desenvolvimento
 
-- **Segurança defensiva:** triagem de alertas, análise de logs e fundamentos de resposta a incidentes
-- **Ambientes:** Windows, Linux e redes
-- **Prática:** laboratórios autorizados, investigação e documentação de evidências
-- **Formação contínua:** [TryHackMe e cursos no Coursera](https://github.com/danszxx/Certificacoes)
+- **Blue Team / SOC:** triagem de alertas, análise de logs, SIEM e fundamentos de resposta a incidentes.
+- **Base técnica:** Windows, Linux, redes e documentação de evidências em laboratórios autorizados.
 
 ## 📫 Contato
 
-[**LinkedIn**](https://www.linkedin.com/in/danszx) · [**GitHub — Certificações**](https://github.com/danszxx/Certificacoes) · [**GitHub — Write-ups**](https://github.com/danszxx/TryHackMe-Writeups)
+[**LinkedIn**](https://www.linkedin.com/in/danszx)
