@@ -28,10 +28,22 @@ Documentação de laboratórios de cibersegurança, organizada por área, com fo
 
 ---
 
-### 📜 Certificações e Cursos
+### 🏆 Certificações Profissionais
 
-**[Ver certificados](https://github.com/danszxx/Certificacoes)**  
-Certificados de cursos e trilhas concluídas na TryHackMe e Coursera.
+Certificações conquistadas por **exame**, com comprovação oficial:
+
+| Certificação | Emissão | Comprovação |
+|---|---|---|
+| **[TryHackMe — Cyber Security 101 (SEC1)](https://github.com/danszxx/Certificacoes/blob/main/01-Certificacoes-Profissionais/SEC1.md)** — **660/700 (94,3%)** | 06/11/2026 | [📄 Certificado oficial](https://assets.tryhackme.com/certification-certificate/6aedfa7a16a2c59cb259fa96.pdf) |
+| **TryHackMe — Pre Security (SEC0)** | 24/09/2026 | [📄 Certificado oficial](https://assets.tryhackme.com/certification-certificate/6ab564d7d7f23c8e3e7f0378.pdf) |
+
+**[📂 Ver todas as certificações profissionais](https://github.com/danszxx/Certificacoes/tree/main/01-Certificacoes-Profissionais)**
+
+### 🎓 Cursos e Trilhas de Aprendizado
+
+Certificados de conclusão de cursos e trilhas da **TryHackMe** e **Coursera**, organizados separadamente das certificações por exame.
+
+**[📚 Ver cursos, trilhas e certificados](https://github.com/danszxx/Certificacoes)**
 
 ---
 
