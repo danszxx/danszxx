@@ -19,7 +19,7 @@ Credenciais obtidas por **exame**, com links para verificação oficial.
 
 | Plataforma | Formação | Situação |
 |---|---|---|
-| **TryHackMe** | [Pre Security](https://github.com/danszxx/Certificacoes/blob/main/02-Trilhas-de-Aprendizado/TryHackMe/Pre-Security.pdf) · [Cyber Security 101](https://github.com/danszxx/Certificacoes/blob/main/02-Trilhas-de-Aprendizado/TryHackMe/Cyber-Security-101.pdf) | ✅ **2 trilhas concluídas** |
+| **TryHackMe** | [Pre Security](https://github.com/danszxx/Certificacoes/blob/main/02-Trilhas-de-Aprendizado/TryHackMe/Pre-Security.pdf) · [Cyber Security 101](https://github.com/danszxx/Certificacoes/blob/main/02-Trilhas-de-Aprendizado/TryHackMe/Cyber-Security-101.pdf) · [AI Security](https://tryhackme.com/certificate/THM-RMPUCFKCW5) | ✅ **3 trilhas concluídas** |
 | **Google · Coursera** | [Certificado Profissional de Segurança Cibernética do Google](https://github.com/danszxx/Certificacoes/tree/main/03-Cursos-e-Formacoes/Google) | 📚 **3 cursos concluídos** · formação em andamento |
 
 **Cursos do Google concluídos:** Foundations of Cybersecurity · Play It Safe: Manage Security Risks · Connect and Protect: Networks and Network Security.
